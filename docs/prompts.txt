@@ -1,0 +1,31 @@
+CSE489 Assignment 2 - AI Prompts
+
+1. Explain the CSE489 Assignment 2 project in a very easy way and create a step-by-step plan to solve it.
+
+2. Guide me step by step to create a Navigation Drawer in Android Studio using Kotlin and XML.
+
+3. Explain the files activity_main.xml, drawer_menu.xml, MainActivity.kt, and strings.xml in a very easy way.
+
+4. Help me create a Broadcast Receiver screen with a Spinner containing:
+   - Custom broadcast receiver
+   - System battery notification receiver
+
+5. Help me create a custom broadcast where the user enters text and a BroadcastReceiver receives and displays the message.
+
+6. Help me implement a battery broadcast receiver that shows the current battery percentage.
+
+7. Help me create an Image Scale screen that loads an image from the internet and supports pinch-to-zoom.
+
+8. Help me create a video player inside the app using VideoView / MediaController.
+
+9. Help me create an audio player using MediaPlayer with Play, Pause, and Stop buttons.
+
+10. Help me debug the Android project when errors occur, including unresolved references and navigation issues.
+
+11. Help me fix the image zoom so that I can zoom back out to the original size.
+
+12. Create a custom launcher icon for my CSE489 Assignment 2 Android app.
+
+13. Help me prepare the AI usage declaration for this assignment.
+
+14. Help me organize the GitHub repository and push the project, including keeping AI declaration, prompts, and documents inside the /docs folder.
