@@ -1,0 +1,46 @@
+============================================================
+AI USAGE DECLARATION
+============================================================
+
+Name: Tahmid Faiyaz  
+Student ID: 23201212
+Assignment: CSE489 Assignment 2  
+Date: 30 October 2026  
+
+------------------------------------------------------------
+1. AI TOOLS USED
+------------------------------------------------------------
+[x] ChatGPT
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE
+------------------------------------------------------------
+[x] Learning/understanding concepts  
+[x] Debugging my code  
+[x] Generating code snippets  
+[x] Design/styling ideas  
+[x] Image generation  
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT to understand Android concepts, get guidance for implementing the required features, debug errors, and generate an app icon.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+File: MainActivity.kt — Navigation Drawer  
+File: BroadcastFragment.kt — Broadcast Receiver  
+File: ImageScaleFragment.kt — Image loading and zoom  
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Tahmid Faiyaz 
+Date: 30 October 2026
